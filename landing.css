@@ -95,7 +95,7 @@ body {
     background-color: rgb(184, 240, 237);
     background-image: url('Imagenes/Agricultores2.jpg');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
     background-size: contain;
     position: relative;
     float: left;
@@ -107,7 +107,7 @@ body {
     background-color: rgb(163, 231, 229);
     background-image: url('Imagenes/Compradores2.png');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
     background-size: contain;
     position: relative;
     float: left;
