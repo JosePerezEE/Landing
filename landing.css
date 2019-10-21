@@ -10,7 +10,7 @@
     float: left;
   }
 
-  li b {
+  li a {
     display: block;
     color: white;
     text-align: center;
@@ -36,7 +36,7 @@
   display: block;
   text-align: left;
   position: absolute;
-  top: 1400px;
+  top: 1370px;
   left: 80%;
   transform: translate(-70%, -70%);
   color: green;
@@ -73,7 +73,7 @@
   .beneficio-text {
     text-align: left;
     position: absolute;
-    top: 1380px;
+    top: 1315px;
     left: 375px;
     transform: translate(-50%, -50%);
     color: black;
@@ -92,7 +92,7 @@ body {
     width: 675px;
     height: 300px;
     position: absolute;
-    background-color: rgb(184, 240, 237);
+    background-color: rgb(187, 248, 245);
     background-image: url('Imagenes/Agricultores2.jpg');
     background-repeat: no-repeat;
     background-position: right;
@@ -104,7 +104,7 @@ body {
   #segundo-div {
     width: 674px;
     height: 300px;
-    background-color: rgb(163, 231, 229);
+    background-color: rgb(136, 218, 215);
     background-image: url('Imagenes/Compradores2.png');
     background-repeat: no-repeat;
     background-position: right;
